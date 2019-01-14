@@ -1,0 +1,5 @@
+neo4j/data/*
+neo4j/logs/*
+graphql/dist/*
+graphql/node_modules
+graphql/src/modules/firebase/admin.json
