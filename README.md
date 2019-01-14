@@ -1,6 +1,6 @@
-#Get Started
+## Get Started
 
-## start neo4j
+### start neo4j
 
 1. Run Docker
 
@@ -8,7 +8,7 @@
 docker-compose up -d neo4j
 ```
 
-## start graphql
+### start graphql
 
 1. Put firebase admin config in `graphql/src/modules/firebase/admin.json`.
 
@@ -42,7 +42,7 @@ npm run build
 docker-compose up -d graphql
 ```
 
-## end
+### end
 
 ```
 docker-compose rm
